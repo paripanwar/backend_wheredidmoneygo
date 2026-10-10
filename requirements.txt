@@ -1,6 +1,3 @@
 Flask
-Flask-Cors
-Flask-SQLAlchemy
-Flask-JWT-Extended
-psycopg[binary]
-gunicorn
+Flask-CORS
+gunicorn (for deployment on Render)
